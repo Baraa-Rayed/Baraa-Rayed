@@ -1,23 +1,29 @@
-# 💫 Baraa Rayed
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Baraa-Rayed/Baraa-Rayed/main/banner.png" alt="Header Banner" />
+</p>
 
-## 🧠 About Me
-I'm a **Master’s graduate in Computational Neuroscience and Biomedical Engineering** from Istanbul University-Cerrahpaşa, passionate about leveraging AI to solve complex problems in neuroscience and healthcare. With expertise in **DevOps**, **MLOps**, **AI**, and **Large Language Models (LLMs)**, I build scalable, innovative solutions that bridge science and technology.
+---
 
-- 🧑‍💻 Skilled in **neural signal processing**, **3D brain simulations**, and **multimodal AI systems** for neurological diagnostics.
-- 🛠️ Proficient in **CI/CD pipelines**, **Kubernetes**, **Docker**, and cloud platforms (AWS, GCP, Azure).
-- 🤖 Experienced in developing and deploying **AI models**, including LLMs and agent-based systems for biomedical applications.
-- 🚀 Love crafting efficient, impactful tools for research and industry.
+## 🧠 About Me  
+Master’s graduate in **Computational Neuroscience & Biomedical Engineering**, focused on integrating **AI** and **DevOps** to build scalable tools for healthcare and research.
 
-## 🌟 Projects
-Check out my repositories for:
-- Multimodal AI systems for neurological disorder diagnosis (e.g., Alzheimer’s, epilepsy).
-- MLOps pipelines for scalable model deployment.
-- DevOps automation for cloud infrastructure and CI/CD workflows.
+- 🧪 Working on **neural signal processing**, **3D brain simulations**, and **multimodal AI**  
+- 🛠️ Skilled in **CI/CD**, **Docker**, **Kubernetes**, and cloud platforms (AWS, GCP, Azure)  
+- 🤖 Building systems using **LLMs**, **MLOps**, and agent-based architectures  
 
-## 📫 Contact
-- ✉️ **Email**: baraerayed@gmail.com
-- 🌐 **Website**: [baraa-rayed.github.io](https://baraa-rayed.github.io)
-- 💼 **LinkedIn**: [linkedin.com/in/your-linkedin]
-- 🐙 **GitHub**: [baraa-rayed](https://github.com/Baraa-Rayed)
+## 🚀 Featured Projects  
+- Multimodal AI for diagnosing neurological disorders  
+- Scalable MLOps pipelines  
+- Automated DevOps workflows for cloud infrastructure  
 
-Let’s connect to build smarter solutions for neuroscience and AI! 🚀
+## 📫 Connect  
+
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/>](https://github.com/Baraa-Rayed)
+&nbsp;&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/baraa-rayed)
+&nbsp;&nbsp;
+[✉️ Email](mailto:baraerayed@gmail.com)
+&nbsp;&nbsp;
+[🌐 Website](https://baraa-rayed.github.io)
+
+---
