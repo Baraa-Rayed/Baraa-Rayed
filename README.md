@@ -18,12 +18,23 @@ Master’s graduate in **Computational Neuroscience & Biomedical Engineering**, 
 
 ## 📫 Connect  
 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="24"/>](https://github.com/Baraa-Rayed)
-&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/baraa-rayed)
-&nbsp;&nbsp;
-[✉️ Email](mailto:baraerayed@gmail.com)
-&nbsp;&nbsp;
-[🌐 Website](https://baraa-rayed.github.io)
+<table>
+  <tr>
+    <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" /></td>
+    <td><a href="https://github.com/Baraa-Rayed">https://github.com/Baraa-Rayed</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /></td>
+    <td><a href="https://www.linkedin.com/in/baraa-rayed">https://www.linkedin.com/in/baraa-rayed</a></td>
+  </tr>
+  <tr>
+    <td>✉️</td>
+    <td><a href="mailto:baraerayed@gmail.com">baraerayed@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><a href="https://baraa-rayed.github.io">https://baraa-rayed.github.io</a></td>
+  </tr>
+</table>
 
 ---
