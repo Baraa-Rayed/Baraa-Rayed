@@ -16,15 +16,7 @@ Master’s graduate in **Computational Neuroscience & Biomedical Engineering**, 
 - Scalable MLOps pipelines  
 - Automated DevOps workflows for cloud infrastructure  
 
-## 📫 Connect  
-
-<a href="https://www.linkedin.com/in/baraa-rayed">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
-</a>
-&nbsp;[linkedin.com/in/baraa-rayed](https://www.linkedin.com/in/baraa-rayed)
-&nbsp;&nbsp;|&nbsp;&nbsp;
-✉️ [baraerayed@gmail.com](mailto:baraerayed@gmail.com)
-&nbsp;&nbsp;|&nbsp;&nbsp;
-🌐 [baraa-rayed.github.io](https://baraa-rayed.github.io)
+## 📫 Connect
+💼 linkedin.com/in/baraa-rayed   |   ✉️ baraerayed@gmail.com   |   🌐 baraa-rayed.github.io
 
 ---
