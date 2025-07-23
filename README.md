@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Baraa-Rayed/Baraa-Rayed/main/banner1.gif" alt="Header Banner" />
-  
+  <img src="https://raw.githubusercontent.com/Baraa-Rayed/Baraa-Rayed/main/banner1.gif" alt="Header Banner" height="200" />
 </p>
 
 ---
