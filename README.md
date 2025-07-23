@@ -17,6 +17,6 @@ Master’s graduate in **Computational Neuroscience & Biomedical Engineering**, 
 - Automated DevOps workflows for cloud infrastructure  
 
 ## 📫 Connect
-💼 [linkedin.com/in/baraa-rayed](https://linkedin.com/in/baraa-rayed)   |   ✉️ [baraerayed@gmail.com](mailto:baraerayed@gmail.com)   |   🌐 [baraa-rayed.github.io](https://baraa-rayed.github.io)
+✉️ [baraerayed@gmail.com](mailto:baraerayed@gmail.com)   |  💼 [linkedin.com/in/baraa-rayed](https://linkedin.com/in/baraa-rayed)  |   🌐 [baraa-rayed.github.io](https://baraa-rayed.github.io)
 
 ---
