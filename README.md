@@ -7,7 +7,7 @@
 ## 🧠 About Me  
 Master’s graduate in **Computational Neuroscience & Biomedical Engineering**, focused on integrating **AI** and **DevOps** to build scalable tools across various industries and research.
 
-- 🧪 Working on **neural signal processing**, **3D brain simulations**, and **multimodal AI**  
+- 🧪 Developing **cloud-based AI agentic systems** with multimodal capabilities, emphasizing DevOps practices, **Kubernetes** orchestration, and **microservices** architecture for **3D Brain simulators**.
 - 🛠️ Skilled in **CI/CD**, **Docker**, **Kubernetes**, and cloud platforms (AWS, GCP, Azure)  
 - 🤖 Building systems using **LLMs**, **MLOps**, and agent-based architectures  
 
