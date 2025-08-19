@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me  
-Master’s graduate in **Computational Neuroscience & Biomedical Engineering**, focused on integrating **AI** and **DevOps** to build scalable tools for healthcare and research.
+Master’s graduate in **Computational Neuroscience & Biomedical Engineering**, focused on integrating **AI** and **DevOps** to build scalable tools across various industries and research.
 
 - 🧪 Working on **neural signal processing**, **3D brain simulations**, and **multimodal AI**  
 - 🛠️ Skilled in **CI/CD**, **Docker**, **Kubernetes**, and cloud platforms (AWS, GCP, Azure)  
